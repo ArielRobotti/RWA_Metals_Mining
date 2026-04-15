@@ -1,7 +1,7 @@
 {
   "canisters": {
-    "RWA_Metals_Mining_backend": {
-      "main": "src/RWA_Metals_Mining_backend/main.mo",
+    "backend": {
+      "main": "src/backend/main.mo",
       "type": "motoko"
     }
   },
